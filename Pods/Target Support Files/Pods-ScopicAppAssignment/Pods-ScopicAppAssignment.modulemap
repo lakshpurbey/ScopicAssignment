@@ -1,0 +1,6 @@
+framework module Pods_ScopicAppAssignment {
+  umbrella header "Pods-ScopicAppAssignment-umbrella.h"
+
+  export *
+  module * { export * }
+}
